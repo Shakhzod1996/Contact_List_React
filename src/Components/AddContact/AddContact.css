@@ -1,0 +1,50 @@
+.add-contact {
+  border-right: 1px solid #1e2e4d;
+  padding-top: 50px;
+}
+
+.add-h1 {
+  margin-bottom: 20px;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #1e2e4d;
+  color: #fff;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.add-input {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.form input {
+  width: 100%;
+  padding: 10px;
+  background-color: #1e2e4d;
+  border: none;
+  margin-top: 5px;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+}
+
+.form > div {
+  margin-bottom: 20px;
+}
+
+.add-select {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #1e2e4d;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+}
